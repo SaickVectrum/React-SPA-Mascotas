@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Se utilizo vite, para crear el proyecto React, por lo que es necesario instalar las dependencias de vite, para poder iniciar correctamente el proyecto, el cual se obtiene a traves del enlace: https://vitejs.dev/guide/
 
 Currently, two official plugins are available:
 

@@ -1,0 +1,9 @@
+:root{
+    background-image: url(fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+body{
+  min-height: 100vh;
+}
